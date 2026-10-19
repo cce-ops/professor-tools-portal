@@ -23,6 +23,12 @@
           "description": "Detector de plagio para proyectos de ingeniería con motor de reglas y LLM redactor",
           "tags": ["streamlit", "python"]
         },
+                {
+          "name": "Validador financiero y de costes de ingeniería",
+          "url": "https://validador-ingenieria.streamlit.app/",
+          "description": "Validador Financiero y de Costes de Ingeniería - PHD, Tarifa Final, Préstamo Francés y TAE, Punto de Equilibrio.",
+          "tags": ["streamlit", "python"]
+        },
         {
           "name": "Planificador de Proyectos",
           "url": "https://planificador-proyectos.streamlit.app/",
