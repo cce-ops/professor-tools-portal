@@ -72,6 +72,12 @@
           "description": "Convierte materiales docentes (PPTX, DOCX, PDF, MD) en apuntes estructurados con Gemini y exporta a Word editable",
           "tags": ["web", "typescript"]
         },
+          {
+          "name": "Generador Exámenes",
+          "url": "https://cce-ops.github.io/generador-examenes/",
+          "description": "App que genera exámenes a partir de apuntes y los corrige automáticamente.",
+          "tags": ["web", "Astro, Typescript, javascript"]
+        },
         {
           "name": "Generador PPTX",
           "url": "https://cce-ops.github.io/generador-pptx/",
