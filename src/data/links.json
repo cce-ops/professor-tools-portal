@@ -89,6 +89,12 @@
           "url": "https://evaluador-presentaciones-ia.pages.dev/",
           "description": "Evaluador de presentaciones con IA",
           "tags": ["web", "typescript"]
+        },
+        {
+          "name": "Asistente PACA",
+          "url": "https://cce-ops.github.io/asistente-paca/",
+          "description": "Clasifica actividades industriales segun la Ley PACA y lista la documentacion minima por regimen",
+          "tags": ["web", "javascript"]
         }
       ]
     }
